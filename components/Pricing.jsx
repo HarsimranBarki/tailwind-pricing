@@ -81,7 +81,6 @@ function Pricing() {
         </button>
 
         <div className="mt-6 mb-6">
-          {" "}
           <div className="flex items-center mt-2">
             <img src={CheckPurple} className="bg-white mr-4 rounded-full p-2" />
             <p className="text-white-900 text-sm">All starter plan features.</p>
